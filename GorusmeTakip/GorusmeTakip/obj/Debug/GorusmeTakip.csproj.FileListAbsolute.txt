@@ -1,0 +1,306 @@
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\GorusmeTakip.dll.config
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\GorusmeTakip.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\GorusmeTakip.pdb
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\Antlr3.Runtime.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\EntityFramework.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\EntityFramework.SqlServer.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\Microsoft.Web.Infrastructure.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\Newtonsoft.Json.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\System.Net.Http.Formatting.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\System.Web.Helpers.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\System.Web.Http.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\System.Web.Http.WebHost.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\System.Web.Mvc.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\System.Web.Optimization.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\System.Web.Razor.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\System.Web.WebPages.Deployment.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\System.Web.WebPages.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\System.Web.WebPages.Razor.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\WebGrease.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\Antlr3.Runtime.pdb
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\EntityFramework.xml
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\EntityFramework.SqlServer.xml
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\Newtonsoft.Json.xml
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\System.Net.Http.Formatting.xml
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\System.Web.Helpers.xml
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\System.Web.Http.xml
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\System.Web.Http.WebHost.xml
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\System.Web.Mvc.xml
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\System.Web.Optimization.xml
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\System.Web.Razor.xml
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\System.Web.WebPages.xml
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\System.Web.WebPages.Deployment.xml
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\System.Web.WebPages.Razor.xml
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\obj\Debug\GorusmeTakip.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\obj\Debug\GorusmeTakip.pdb
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Charts.Designer.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Dashboard.v16.2.Core.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Dashboard.v16.2.Web.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Dashboard.v16.2.Win.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Data.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.DataAccess.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.DataAccess.v16.2.UI.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Diagram.v16.2.Core.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.ExpressApp.HtmlPropertyEditor.Win.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.ExpressApp.PivotChart.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.ExpressApp.Reports.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.ExpressApp.Scheduler.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.ExpressApp.Scheduler.Web.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.ExpressApp.Security.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.ExpressApp.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.ExpressApp.Validation.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.ExpressApp.Web.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.ExpressApp.Win.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Map.v16.2.Core.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Office.v16.2.Core.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Pdf.v16.2.Core.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.PivotGrid.v16.2.Core.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Printing.v16.2.Core.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.RichEdit.v16.2.Core.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Snap.v16.2.Core.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Snap.v16.2.Extensions.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Snap.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Sparkline.v16.2.Core.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Utils.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Utils.v16.2.UI.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Web.ASPxHtmlEditor.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Web.ASPxRichEdit.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Web.ASPxSpellChecker.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Web.ASPxSpreadsheet.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Web.ASPxTreeList.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Web.Resources.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Web.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Xpf.Charts.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Xpf.Controls.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Xpf.Core.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Xpf.Docking.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Xpf.Gauges.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Xpf.NavBar.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Xpf.PdfViewer.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Xpf.Printing.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Xpf.PropertyGrid.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Xpf.ReportDesigner.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Xpf.RichEdit.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Xpf.Scheduler.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Xpf.SpellChecker.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Xpf.Spreadsheet.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.Xpo.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraBars.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraCharts.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraEditors.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraGauges.v16.2.Core.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraGauges.v16.2.Presets.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraGrid.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraLayout.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraNavBar.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraPdfViewer.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraPivotGrid.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraPrinting.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraReports.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraReports.v16.2.Web.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraRichEdit.v16.2.Extensions.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraRichEdit.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraScheduler.v16.2.Extensions.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraScheduler.v16.2.Reporting.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraScheduler.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraSpellChecker.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraSpreadsheet.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraTreeList.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraWizard.v16.2.resources.dll
+c:\users\yunus\documents\visual studio 2017\Projects\GorusmeTakip\GorusmeTakip\obj\Debug\GorusmeTakip.csprojResolveAssemblyReference.cache
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\obj\Debug\GorusmeTakip.csprojResolveAssemblyReference.cache
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\obj\Debug\GorusmeTakip.csproj.CoreCompileInputs.cache
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\obj\Debug\GorusmeTakip.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\obj\Debug\GorusmeTakip.pdb
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\GorusmeTakip.dll.config
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\GorusmeTakip.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\GorusmeTakip.pdb
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\Antlr3.Runtime.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Data.v16.2.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Printing.v16.2.Core.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.RichEdit.v16.2.Core.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Utils.v16.2.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Web.ASPxScheduler.v16.2.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Web.ASPxThemes.v16.2.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Web.Mvc5.v16.2.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Web.v16.2.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraScheduler.v16.2.Core.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\EntityFramework.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\EntityFramework.SqlServer.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\Microsoft.Web.Infrastructure.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\Newtonsoft.Json.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\System.Net.Http.Formatting.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\System.Web.Helpers.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\System.Web.Http.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\System.Web.Http.WebHost.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\System.Web.Mvc.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\System.Web.Optimization.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\System.Web.Razor.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\System.Web.WebPages.Deployment.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\System.Web.WebPages.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\System.Web.WebPages.Razor.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\WebGrease.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Office.v16.2.Core.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Pdf.v16.2.Core.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraCharts.v16.2.Web.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraCharts.v16.2.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Web.ASPxHtmlEditor.v16.2.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Web.ASPxPivotGrid.v16.2.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.PivotGrid.v16.2.Core.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraReports.v16.2.Web.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Web.ASPxRichEdit.v16.2.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Web.ASPxSpellChecker.v16.2.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Web.ASPxSpreadsheet.v16.2.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Web.ASPxTreeList.v16.2.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraReports.v16.2.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.SpellChecker.v16.2.Core.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Spreadsheet.v16.2.Core.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Charts.v16.2.Core.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Web.Resources.v16.2.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.DataAccess.v16.2.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Sparkline.v16.2.Core.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraGauges.v16.2.Core.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Xpo.v16.2.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.CodeParser.v16.2.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\Antlr3.Runtime.pdb
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\EntityFramework.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\EntityFramework.SqlServer.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\Newtonsoft.Json.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\System.Net.Http.Formatting.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\System.Web.Helpers.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\System.Web.Http.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\System.Web.Http.WebHost.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\System.Web.Mvc.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\System.Web.Optimization.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\System.Web.Razor.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\System.Web.WebPages.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\System.Web.WebPages.Deployment.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\System.Web.WebPages.Razor.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Utils.v16.2.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Data.v16.2.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.RichEdit.v16.2.Core.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Printing.v16.2.Core.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Web.v16.2.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraScheduler.v16.2.Core.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Web.ASPxScheduler.v16.2.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Office.v16.2.Core.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Pdf.v16.2.Core.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraCharts.v16.2.Web.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraCharts.v16.2.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Web.ASPxHtmlEditor.v16.2.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Web.ASPxPivotGrid.v16.2.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.PivotGrid.v16.2.Core.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraReports.v16.2.Web.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Web.ASPxRichEdit.v16.2.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Web.ASPxSpellChecker.v16.2.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Web.ASPxSpreadsheet.v16.2.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Web.ASPxTreeList.v16.2.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraReports.v16.2.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.SpellChecker.v16.2.Core.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Spreadsheet.v16.2.Core.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.DataAccess.v16.2.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Sparkline.v16.2.Core.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.XtraGauges.v16.2.Core.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\DevExpress.Xpo.v16.2.xml
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\de\DevExpress.Utils.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\es\DevExpress.Utils.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ja\DevExpress.Utils.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ru\DevExpress.Utils.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\de\DevExpress.Data.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\es\DevExpress.Data.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ja\DevExpress.Data.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ru\DevExpress.Data.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\de\DevExpress.Printing.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\es\DevExpress.Printing.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ja\DevExpress.Printing.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ru\DevExpress.Printing.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\de\DevExpress.Web.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\es\DevExpress.Web.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ja\DevExpress.Web.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ru\DevExpress.Web.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\de\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\es\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ja\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ru\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\de\DevExpress.Web.ASPxScheduler.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\es\DevExpress.Web.ASPxScheduler.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ja\DevExpress.Web.ASPxScheduler.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ru\DevExpress.Web.ASPxScheduler.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\de\DevExpress.Office.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\es\DevExpress.Office.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ja\DevExpress.Office.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ru\DevExpress.Office.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\de\DevExpress.Pdf.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\es\DevExpress.Pdf.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\de\DevExpress.XtraCharts.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\es\DevExpress.XtraCharts.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ja\DevExpress.XtraCharts.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ru\DevExpress.XtraCharts.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\de\DevExpress.Web.ASPxHtmlEditor.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\es\DevExpress.Web.ASPxHtmlEditor.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ja\DevExpress.Web.ASPxHtmlEditor.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ru\DevExpress.Web.ASPxHtmlEditor.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\de\DevExpress.PivotGrid.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\es\DevExpress.PivotGrid.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ja\DevExpress.PivotGrid.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ru\DevExpress.PivotGrid.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\de\DevExpress.XtraReports.v16.2.Web.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\es\DevExpress.XtraReports.v16.2.Web.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ja\DevExpress.XtraReports.v16.2.Web.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ru\DevExpress.XtraReports.v16.2.Web.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\de\DevExpress.Web.ASPxRichEdit.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\es\DevExpress.Web.ASPxRichEdit.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ja\DevExpress.Web.ASPxRichEdit.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ru\DevExpress.Web.ASPxRichEdit.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\de\DevExpress.Web.ASPxSpellChecker.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\es\DevExpress.Web.ASPxSpellChecker.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ja\DevExpress.Web.ASPxSpellChecker.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ru\DevExpress.Web.ASPxSpellChecker.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\de\DevExpress.Web.ASPxSpreadsheet.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\es\DevExpress.Web.ASPxSpreadsheet.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ja\DevExpress.Web.ASPxSpreadsheet.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ru\DevExpress.Web.ASPxSpreadsheet.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\de\DevExpress.Web.ASPxTreeList.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\es\DevExpress.Web.ASPxTreeList.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ja\DevExpress.Web.ASPxTreeList.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ru\DevExpress.Web.ASPxTreeList.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\de\DevExpress.XtraReports.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\es\DevExpress.XtraReports.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ja\DevExpress.XtraReports.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ru\DevExpress.XtraReports.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\de\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\es\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ja\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ru\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\de\DevExpress.DataAccess.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\es\DevExpress.DataAccess.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ja\DevExpress.DataAccess.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ru\DevExpress.DataAccess.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\de\DevExpress.XtraGauges.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\es\DevExpress.XtraGauges.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ja\DevExpress.XtraGauges.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ru\DevExpress.XtraGauges.v16.2.Core.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\de\DevExpress.Xpo.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\es\DevExpress.Xpo.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ja\DevExpress.Xpo.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\bin\ru\DevExpress.Xpo.v16.2.resources.dll
+E:\mvc vc\MVC\MVCModelBinding-master\GorusmeTakip\GorusmeTakip\GorusmeTakip\obj\Debug\GorusmeTakip.csproj.CopyComplete
